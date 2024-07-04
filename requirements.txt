@@ -1,0 +1,5 @@
+pymupdf
+camelot-py
+scikit-image
+matplotlib
+imagehash
