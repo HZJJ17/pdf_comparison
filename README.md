@@ -27,6 +27,14 @@ This Python tool compares two PDF documents, highlighting differences in text, i
  
  *imagehash
 
+## Installation for local development
+  
+  **Clone the repository:**
+
+   ```Bash
+     https://github.com/HZJJ17/pdf_comparison.git
+   ```
+    
 ## Usage
  1. **Run the Script:**
   ```Bash
@@ -48,9 +56,9 @@ This Python tool compares two PDF documents, highlighting differences in text, i
 
 2. **Run the Script with Visualization (Optional):**
 
-   ```Bash
-   python pdf_comparison.py document1.pdf document2.pdf -o output_dir -v
-   ```
+```Bash
+python pdf_comparison.py document1.pdf document2.pdf -o output_dir -v
+```
 
    * The -v flag enables visualization of the differences, saving images to the output directory.
      
